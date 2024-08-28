@@ -1,12 +1,12 @@
 
-Meu nome e GUstavo santos
+Meu nome e Gustavo santos
 
 estou desenvolvendo scrath e javascript,alem do alura
 
-https://tenor.com/kjtvOrBo3Eo.gif
+https://tenor.com/pt-BR/view/gato-gif-8519052141498810062
 
 
-https://tenor.com/kjtvOrBo3Eo.gif
+
 
 
 
