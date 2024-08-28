@@ -1,4 +1,5 @@
-Boas vindas ao meu perfil
+
+Meu nome e GUstavo santos
 
 estou desenvolvendo scrath e javascript,alem do alura
 
